@@ -1,14 +1,14 @@
 # HELLO HTTP
 
-### **DESCRITPION**
+## **DESCRITPION**
 
 An Assignment where I created an simple HTTP Server.
 
-### **EXTRAS**
+## **EXTRAS**
 
 No Extras
 
-### **DEPENDENCIES**
+## **DEPENDENCIES**
 
 1. axios
 2. chai
@@ -16,6 +16,6 @@ No Extras
 4. nightmare
 5. nodemon
 
-### **STYLING**
+## **STYLING**
 
 No Styling
