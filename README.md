@@ -2,8 +2,20 @@
 
 ## DESCRITPION
 
-### EXTRAS
+An Assignment where I created an simple HTTP Server
 
-#### DEPENDENCIES
+## EXTRAS
 
-##### STYLING
+No Extras
+
+## DEPENDENCIES
+
+1. axios
+2. chai
+3. mocha
+4. nightmare
+5. nodemon
+
+## STYLING
+
+No Styling
