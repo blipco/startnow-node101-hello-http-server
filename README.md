@@ -2,11 +2,11 @@
 
 ## **DESCRIPTION:**
 
-An Assignment where I created an simple HTTP Server.
+-- An Assignment where I created an simple HTTP Server.
 
 ## **EXTRAS:**
 
-No Extras
+-- No Extras
 
 ## **DEPENDENCIES:**
 
@@ -18,4 +18,4 @@ No Extras
 
 ## **STYLING:**
 
-No Styling
+-- No Styling
