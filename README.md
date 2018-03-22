@@ -1,6 +1,6 @@
 # HELLO HTTP SERVER
 
-## **DESCRITPION**
+## **DESCRIPTION**
 
 An Assignment where I created an simple HTTP Server.
 
